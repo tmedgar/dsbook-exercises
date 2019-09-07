@@ -1,2 +1,3 @@
 # dsbook-exercises
-Exercises for Rafael A. Irizarry's Introduction to Data Science
+
+R code for the exercises found in Rafael A. Irizarry's [Introduction to Data Science](https://rafalab.github.io/dsbook/).
